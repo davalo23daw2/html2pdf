@@ -1,6 +1,6 @@
 # Conversió d'HTML a PDF amb Dompdf
-# Autor: dacomo2122daw2
-# Data: 15-11-2021
+# Autor: davalo23daw2
+# Data: 13-01-2024
 
 1- Requereix composer:
 	Debian Linux -->
@@ -20,11 +20,11 @@
 
 NOTA: S'hauran creat més fitxers i carpetes	
    
-4- Copia dacomo2122daw2-html2pdf dins de /var/www/html
+4- Copia davalo23daw2-html2pdf dins de /var/www/html
 
 5- Accedeix a l'aplicació amb el navegador:
 	
-	http://localhost/dacomo2122daw2-html2pdf/html2pdf.php
+	http://localhost/davalo23daw2-html2pdf/html2pdf.php
 
 NOTA 1: també pots utilitzar l'adreça IP del teu sistema o el nom del sistema
 NOTA 2: El fitxer convertit a PDF és index.html que es troba a la mateixa carpeta
